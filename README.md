@@ -10,6 +10,7 @@ Email ID : adityajha8906@gmail.com
 Participant ID (if applicable): (certificate_id) - 7e43ecd9-76ff-4713-917e-f884b9fedf02
 
 Approach for this Project :
+
 **Image segmentation** is a crucial task in computer vision that involves identifying and classifying different regions or objects within an image. In this project, I will explore three different approaches for image segmentation using deep learning models: **Simple_CNN**, **AlexNet**, and **VGG**.
 
 **To begin,** I will leverage the **Simple_CNN** architecture, which is a lightweight convolutional neural network suitable for small-scale image segmentation tasks. With its simplicity, this model can quickly process the Lemon Quality Dataset provided in the [link](https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset).
