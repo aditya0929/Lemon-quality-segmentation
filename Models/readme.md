@@ -69,7 +69,7 @@
     batch normalization (BatchNormalization), 
     flatten layer (Flatten), 
     dropout layers (Dropout),
-    fully connected dense layers (Dense). T
+    fully connected dense layers (Dense). 
     The last dense layer has three units with softmax activation, 
     which corresponds to the number of classes in the classification task.
     The model is compiled with the ADAM optimizer and categorical cross-entropy loss.
