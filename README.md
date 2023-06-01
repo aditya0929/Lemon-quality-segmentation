@@ -11,19 +11,27 @@ Participant ID (if applicable): (certificate_id) - 7e43ecd9-76ff-4713-917e-f884b
 
 Approach for this Project :
 
-**Image segmentation** is a crucial task in computer vision that involves identifying and classifying different regions or objects within an image. In this project, I will explore three different approaches for image segmentation using deep learning models: **Simple_CNN**, **AlexNet**, and **VGG**.
+**Image segmentation**
+
+is a crucial task in computer vision that involves identifying and classifying different regions or objects within an image. In this project, I will explore three different approaches for image segmentation using deep learning models: **Simple_CNN**, **AlexNet**, and **VGG**.
 
  **Simple_CNN** 
  
-**To begin,** I will leverage the **Simple_CNN** architecture, which is a lightweight convolutional neural network suitable for small-scale image segmentation tasks. With its simplicity, this model can quickly process the Lemon Quality Dataset provided in the [link](https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset).
+**To begin,** 
+
+I will leverage the **Simple_CNN** architecture, which is a lightweight convolutional neural network suitable for small-scale image segmentation tasks. With its simplicity, this model can quickly process the Lemon Quality Dataset provided in the [link](https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset).
 
 **AlexNet** 
 
-**Next,** I will employ the **AlexNet** architecture, a popular deep learning model known for its pioneering role in the ImageNet challenge. AlexNet's deeper layers and larger capacity will enable it to capture more complex features and improve the segmentation performance on the Lemon Quality Dataset.
+**Next,** 
+
+I will employ the **AlexNet** architecture, a popular deep learning model known for its pioneering role in the ImageNet challenge. AlexNet's deeper layers and larger capacity will enable it to capture more complex features and improve the segmentation performance on the Lemon Quality Dataset.
 
 **VGG16**
 
-**Lastly,** I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
+**Lastly,** 
+
+I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
 
 
 
