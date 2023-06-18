@@ -36,5 +36,6 @@ I will preprocess the dataset by resizing the images and splitting it into train
 **After training the models,**
 
 I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the lemon images.
+the comparison.ipynb shows different graphical representation for the metrics evaluation
 
 This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in quality assessment and sorting of lemons.
